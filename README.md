@@ -43,6 +43,11 @@ python itunes_search.py lookup 909253
 
 This will lookup the item with the ID 909253 in the iTunes store.
 
+## API Definition:
+- https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html
+- https://performance-partners.apple.com/search-api
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
